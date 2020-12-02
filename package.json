@@ -1,0 +1,25 @@
+{
+  "name": "fitfriends",
+  "version": "1.0.0",
+  "description": "Fitness Platform for sharing workouts and nutrition",
+  "main": "index.js",
+  "scripts": {
+    "test": "node backend.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannytracy19/FitFriends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannytracy19/FitFriends/issues"
+  },
+  "homepage": "https://github.com/dannytracy19/FitFriends#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.13",
+    "bulma": "^0.9.1",
+    "firebase": "^8.1.1",
+    "jQuery": "^1.7.4"
+  }
+}
